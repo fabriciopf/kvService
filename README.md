@@ -1,6 +1,6 @@
 # kvService
 
-=== Warning: This document is suffering constant changes!! ===
+=== Warning: This document is being modified frequently!! ===
 
 How to run a mocked version of Aws Services:
 
@@ -21,4 +21,4 @@ Instructions to run locally:
   
   (WIP)
 
-Asap I will provide a Docker image.
+I will provide a Docker image asap.
