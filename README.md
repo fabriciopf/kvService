@@ -16,6 +16,8 @@ Instructions to run locally:
 *	aws-sdk-cpp: http://docs.aws.amazon.com/sdk-for-cpp/v1/developer-guide/setup.html
 
 *	cpprestsdk: https://github.com/Microsoft/cpprestsdk
+
+* protobuf: https://github.com/google/protobuf/blob/master/src/README.md
   
   (WIP)
 
