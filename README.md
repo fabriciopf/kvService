@@ -1,5 +1,7 @@
 # kvService
 
+=== Warning: This document is suffering constant changes!! ===
+
 How to run a mocked version of Aws Services:
 
   In main.cpp change RestController constructor parameter from KvService to KmServiceMock.
@@ -11,13 +13,10 @@ Instructions to run locally:
 
 2) install library dependencies:
 
-  2.1) aws-sdk-cpp: http://docs.aws.amazon.com/sdk-for-cpp/v1/developer-guide/setup.html
-  2.2) cpprestsdk: https://github.com/Microsoft/cpprestsdk
+*	aws-sdk-cpp: http://docs.aws.amazon.com/sdk-for-cpp/v1/developer-guide/setup.html
+
+*	cpprestsdk: https://github.com/Microsoft/cpprestsdk
   
   (WIP)
 
 Asap I will provide a Docker image.
-
-------
-
-Instructions to deploy using 
