@@ -13,7 +13,7 @@ using namespace cfx;
 int main(int argc, const char * argv[]) {
 	InterruptHandler::hookSIGINT();
 
-	IKvService& service = KvServiceMock::getInstance();
+	IKvService& service = KvService::getInstance();
 	RestController server(service);
 	server.setEndpoint("http://host_auto_ip4:8000/kv");
 
